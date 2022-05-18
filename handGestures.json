@@ -1,0 +1,52 @@
+[
+  {
+    "nameInSanskrit": "Name in Sanskrit",
+    "translateInHindi": "Translate in Hindi",
+    "Illustration": "Illustration"
+  },
+  {
+    "nameInSanskrit": "Patak",
+    "translateInHindi": "Flag, Cloud, Forest",
+    "Illustration": "Patak.jpeg"
+  },
+  {
+    "nameInSanskrit": "Tripatak",
+    "translateInHindi": "Flag in three parts crown, tree",
+    "Illustration": "Tripatak.jpeg"
+  },
+  {
+    "nameInSanskrit": "Shikara",
+    "translateInHindi": "Peak",
+    "Illustration": "Shikara.jpeg"
+  },
+  {
+    "nameInSanskrit": "Chandrakala",
+    "translateInHindi": "Face of the moon",
+    "Illustration": "Chandrakala.jpeg"
+  },
+  {
+    "nameInSanskrit": "Sarpashirsha",
+    "translateInHindi": "Snake head",
+    "Illustration": "Sarpashirsha.jpeg"
+  },
+  {
+    "nameInSanskrit": "Simhamukha",
+    "translateInHindi": "Face of a lion",
+    "Illustration": "Simhamukha.jpeg"
+  },
+  {
+    "nameInSanskrit": "Chatura",
+    "translateInHindi": "Four",
+    "Illustration": "Chandrakala.jpeg"
+  },
+  {
+    "nameInSanskrit": "Tamrachuda",
+    "translateInHindi": "Rooster",
+    "Illustration": "Tamrachuda.jpeg"
+  },
+  {
+    "nameInSanskrit": "Trishula",
+    "translateInHindi": "Trident",
+    "Illustration": "Trishula.jpeg"
+  }
+]

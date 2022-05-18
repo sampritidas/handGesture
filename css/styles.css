@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family : sans-serif;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+header {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+div {
+  width : 358px;
+  margin : 0 auto;
+}
+th {
+  border-right : 1px solid black;
+  border-bottom : 1px solid black;
+  padding : 10px;
+  text-align : left;
+}
+td {
+  border-right : 1px dotted black;
+  border-bottom : 1px dotted black;
+  padding : 10px;
+}
+tr:hover {
+  background-color : rgb(214, 213, 213);
+}
+table {
+  border : 2px none;
+  box-shadow : 0.06em 0.06em 0.5em rgb(153, 152, 152);
+}
+.table-class {
+  width : 600px;  
+}
+img {
+  width : 100%;
+}
+.image {
+  width : 7.5em;
+  overflow : hidden;
+  border-radius : 0.32em;
+}
